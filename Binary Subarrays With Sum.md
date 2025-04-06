@@ -1,4 +1,4 @@
-## Binary Subarrays With Sum (stack) (c++)
+## Binary Subarrays With Sum (c++)
 
 Given a binary array nums and an integer goal, return the number of non-empty subarrays with a sum goal.
 
