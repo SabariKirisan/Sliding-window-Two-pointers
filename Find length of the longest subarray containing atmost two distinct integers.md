@@ -1,4 +1,4 @@
-## Find length of the longest subarray containing atmost two distinct integers (stack) (c++)
+## Find length of the longest subarray containing atmost two distinct integers (c++)
 
 Given an array arr[] containing positive elements, the task is to find the length of the longest subarray of an input array containing at most two distinct integers.
 
