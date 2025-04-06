@@ -1,4 +1,4 @@
-## Longest Substring Without Repeating Characters (stack) (c++)
+## Longest Substring Without Repeating Characters (c++)
 
 Given a string s, find the length of the longest substring without duplicate characters.
 
